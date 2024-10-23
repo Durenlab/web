@@ -6,21 +6,13 @@
   education1: BS in Animal Science, Inner Mongolia Agricultural University, China
   education2: MS in Genetics, Norwegian University of Life Science, Norway
   
-- name: Jiamutai
-  photo: Jiamutai.jpg
-  info: Graduate student, started Jan 2021
-  email: jjiamut@clemson.edu
-  number_educ: 2
-  education1: BS in Animal Science, Inner Mongolia Agricultural University, China
-  education2: MS in Genetics, Norwegian University of Life Science, Norway
-
 - name: Fengge (Cham) Chang
   photo: Fengge_Chang.jpg
   info: Visiting graduate student, started Mar 2021
   email: fchang@clemson.edu
   number_educ: 2
-  education1: BS in Information and Computer Sciences, Saitama University, Japen
-  education2: MS in Information and Computer Sciences, Saitama University, Japen
+  education1: BS in Information and Computer Sciences, Saitama University, Japan
+  education2: MS in Information and Computer Sciences, Saitama University, Japan
 
 - name: Hui Ma
   photo: Hui_Ma.png
