@@ -64,7 +64,7 @@ We are a computational biology research group at the [Medical and Molecular Gene
 
 To this end, we develop novel computational tools for integrative analysis of genomics data to infer gene regulatory networks, to detect heterogeneity, and to annotate the regulatory function of genetic variants by context specific manner. (see [Research](research)).
 
-We are part of the <a href="https://medicine.iu.edu">Indiana University School of Medicine </a> <a href="https://medicine.iu.edu/genetics"> Medical and Molecular Genetics</a>, which is located in 410 W. 10th Street, a state-of-the-art research and educational facility located in Indianapolis, Indiana.
+We are part of the <a href="https://medicine.iu.edu">Indiana University School of Medicine </a> <a href="https://medicine.iu.edu/genetics"> Department of Medical and Molecular Genetics</a>, which is located in 410 W. 10th Street, a state-of-the-art research and educational facility located in Indianapolis, Indiana.
     
 
  **We are looking for new Postdocs, graduate students, and ungraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
