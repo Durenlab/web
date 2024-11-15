@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a computational biology research group at the [Department of Medical and Molecular Genetics](https://medicine.iu.edu/genetics) and [Center for Computational Biology and Bioinformatics] [https://medicine.iu.edu/genetics](https://medicine.iu.edu/research-centers/computational-biology-bioinformatics) of [Indiana University School of Medicine](https://medicine.iu.edu/). Our aim is to explore and understand the regulatory mechanisms of non-coding DNA. The long-term research goal is to answer the key scientific question” How non-coding genetic variant act through context specific gene regulatory network to influence phenotype”. 
+We are a computational biology research group at the [Department of Medical and Molecular Genetics](https://medicine.iu.edu/genetics) and [Center for Computational Biology and Bioinformatics](https://medicine.iu.edu/research-centers/computational-biology-bioinformatics) of [Indiana University School of Medicine](https://medicine.iu.edu/). Our aim is to explore and understand the regulatory mechanisms of non-coding DNA. The long-term research goal is to answer the key scientific question” How non-coding genetic variant act through context specific gene regulatory network to influence phenotype”. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
