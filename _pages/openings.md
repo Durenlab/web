@@ -23,7 +23,7 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 
 
 ### Bsc / Master students 
-If you are a undergraduate or a Master student at Clemson University looking for a project, contact me (or any group member) per email or stop by my office.
+If you are a undergraduate or a Master student at Indiana University looking for a project, contact me (or any group member) per email or stop by my office.
 
 ### Visiting students and scholars
 If you are a student or a scholar from other universities and interested in joining our group as a visiting student/scholar, please send me an email.
