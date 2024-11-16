@@ -14,8 +14,8 @@ We are always looking for new group members with passion, talent, and grit!
 ### Current open positions
 
 You find the current job openings here:
-[Postdocs]({{ site.baseurl }}/downloads/Postdoc Duren lab opennings.pdf),
-[PhD students]({{ site.baseurl }}/downloads/PhD Duren lab opennings.pdf).
+[Postdocs]({{ site.baseurl }}/downloads/IU_postdoc.pdf),
+[PhD students]({{ site.baseurl }}/downloads/IU_PhD.pdf).
 
 
 ### Applications for PhD and Postdoc positions
